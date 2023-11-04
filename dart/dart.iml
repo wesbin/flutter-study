@@ -9,6 +9,7 @@
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="f845495e-511e-486a-9561-5072f90b6703" />
